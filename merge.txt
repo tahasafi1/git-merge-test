@@ -1,2 +1,4 @@
 totally different content of merge.txt
 need some new changes
+this is some content to mess with
+content to append
